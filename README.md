@@ -1,2 +1,2 @@
-# compiler
-The Dash Language Compiler (Bootstrap - built in rust)
+# Dash Bootstrap Compiler
+Bootstrap compiler for the Dash Programming Language
